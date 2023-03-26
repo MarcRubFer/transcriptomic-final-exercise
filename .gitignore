@@ -1,6 +1,11 @@
 
 
 # Mi .gitignore
-output/
+
+Apartado1/output/fastqc_results/*
+!Apartado1/output/fastqc_results/*fastqc.html
+Apartado1/output/hisat2
+Apartado1/output/htseq
+Apartado1/output/picard
 trimmomatic*/
 Trimmomatic*
