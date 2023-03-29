@@ -1,0 +1,27 @@
+HISAT2 summary stats:
+	Total pairs: 9746
+		Aligned concordantly or discordantly 0 time: 4043 (41.48%)
+		Aligned concordantly 1 time: 4852 (49.78%)
+		Aligned concordantly >1 times: 0 (0.00%)
+		Aligned discordantly 1 time: 851 (8.73%)
+	Total unpaired reads: 8086
+		Aligned 0 time: 4044 (50.01%)
+		Aligned 1 time: 4042 (49.99%)
+		Aligned >1 times: 0 (0.00%)
+	Overall alignment rate: 79.25%
+
+SAMTOOLS alignment statistics
+
+19492 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+15448 + 0 mapped (79.25% : N/A)
+19492 + 0 paired in sequencing
+9746 + 0 read1
+9746 + 0 read2
+9704 + 0 properly paired (49.78% : N/A)
+11744 + 0 with itself and mate mapped
+3704 + 0 singletons (19.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
