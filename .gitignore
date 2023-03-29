@@ -1,11 +1,16 @@
-
-
 # Mi .gitignore
 
 Apartado1/output/fastqc_results/*
 !Apartado1/output/fastqc_results/*fastqc.html
-Apartado1/output/hisat2
-Apartado1/output/htseq
+Apartado1/output/hisat2/index
+Apartado1/output/hisat2/results/SRR479052/*
+!Apartado1/output/hisat2/results/SRR479052/*hisat2.summary
+Apartado1/output/hisat2/results/SRR479054/*
+!Apartado1/output/hisat2/results/SRR479054/*hisat2.summary
+Apartado1/output/hisat2/*.txt
 Apartado1/output/picard
+Apartado1/output/multiqc_report/*
+!Apartado1/output/multiqc_report/*.html
 trimmomatic*/
 Trimmomatic*
+.Rproj.user
