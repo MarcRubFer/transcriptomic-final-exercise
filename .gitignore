@@ -28,5 +28,6 @@ Apartado1/output_BBDuk/multiqc_report/*
 trimmomatic*/
 Trimmomatic*
 
-Apartado2/*
+Apartado2/figures
+Apartado2/Apartado2_DEGtask.R
 .Rproj.user
